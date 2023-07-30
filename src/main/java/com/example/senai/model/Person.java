@@ -1,4 +1,4 @@
-package com.example.senai;
+package com.example.senai.model;
 
 public class Person {
 
@@ -30,5 +30,8 @@ public class Person {
 
     public void setId(Integer id) {
         this.id = id;
+    }
+
+    public void setSexo() {
     }
 }
